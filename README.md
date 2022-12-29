@@ -4,4 +4,4 @@ My files for nobara
 
 ### DW 1510
 
-[](dw1510_fedora)
+[kod](dw1510_fedora)
